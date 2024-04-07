@@ -1,2 +1,2 @@
-# ELO
-elo
+# chayan
+AI based career counselling platform!!
